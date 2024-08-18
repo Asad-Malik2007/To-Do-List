@@ -12,7 +12,7 @@ inputBtn.addEventListener("click", function(){
     setTimeout(function(){
     infoEl.innerText=""
     
-  },1000)
+  },990)
     }
     else{
       myLeads.push(inputEl.value);
